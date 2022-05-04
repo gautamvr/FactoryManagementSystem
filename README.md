@@ -15,7 +15,7 @@ This study was analyzed with production line data of 2 key BTS products (AHFIB a
 -  Data from 2 stages of Testing phase was collected in each module's production line.
 -  Data of each submodule were also collected for 1 Transceiver module (2 Submodules in 1 BTS)
 
-
+-----
 
 ### Libraries used
 - Numpy
@@ -23,5 +23,3 @@ This study was analyzed with production line data of 2 key BTS products (AHFIB a
 - Seaborn
 - MatplotLib
 - scikit-learn
-
-analyze the key electronic parameters in the testing of a BTS product (AHFIB and FRGY) and to provide a complete analysis by the correlation of the key parameters with all other testing parameters. With the help of various software libraries like pandas and numpy it was possible segregate the data into a collection of single dataframe which contains only therequired information for correlating the data.
